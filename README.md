@@ -1,4 +1,7 @@
-# create-svelte
+# Sveltkit & Firebase Google Login Authentication
+
+![sveltekit-firebase](https://github.com/esarmiem/Svelkit-Firebase-Auth/assets/114357859/101de660-507b-42db-b7fa-6a0b4980b3a0)
+
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
